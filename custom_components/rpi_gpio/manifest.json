@@ -5,6 +5,6 @@
   "documentation": "https://github.com/thecode/ha-rpi_gpio",
   "iot_class": "local_push",
   "issue_tracker": "https://github.com/thecode/ha-rpi_gpio/issues",
-  "requirements": ["RPi.GPIO==0.7.1"],
+  "requirements": ["rpi-lgpio==0.5"],
   "version": "2022.7.0"
 }
